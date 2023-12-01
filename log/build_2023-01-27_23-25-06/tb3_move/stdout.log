@@ -1,0 +1,21 @@
+running develop
+running egg_info
+writing tb3_move.egg-info/PKG-INFO
+writing dependency_links to tb3_move.egg-info/dependency_links.txt
+writing entry points to tb3_move.egg-info/entry_points.txt
+writing requirements to tb3_move.egg-info/requires.txt
+writing top-level names to tb3_move.egg-info/top_level.txt
+reading manifest file 'tb3_move.egg-info/SOURCES.txt'
+writing manifest file 'tb3_move.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rkskwhdgh123/robot_ws/install/tb3_move/lib/python3.8/site-packages/tb3-move.egg-link (link to .)
+Installing tb3distance_sub_test script to /home/rkskwhdgh123/robot_ws/install/tb3_move/lib/tb3_move
+Installing tb3gpio script to /home/rkskwhdgh123/robot_ws/install/tb3_move/lib/tb3_move
+Installing tb3m script to /home/rkskwhdgh123/robot_ws/install/tb3_move/lib/tb3_move
+Installing tb3mix script to /home/rkskwhdgh123/robot_ws/install/tb3_move/lib/tb3_move
+Installing tb3mix2 script to /home/rkskwhdgh123/robot_ws/install/tb3_move/lib/tb3_move
+Installing tb3mix3 script to /home/rkskwhdgh123/robot_ws/install/tb3_move/lib/tb3_move
+Installing tb3s script to /home/rkskwhdgh123/robot_ws/install/tb3_move/lib/tb3_move
+
+Installed /home/rkskwhdgh123/robot_ws/build/tb3_move
+running install_data

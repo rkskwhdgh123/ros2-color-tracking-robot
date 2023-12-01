@@ -1,0 +1,3 @@
+[console_scripts]
+followwaypoint = nav_move.followwaypoint:main
+

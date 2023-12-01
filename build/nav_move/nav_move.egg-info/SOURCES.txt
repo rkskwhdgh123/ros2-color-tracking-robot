@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+nav_move/__init__.py
+nav_move/followwaypoint.py
+nav_move.egg-info/PKG-INFO
+nav_move.egg-info/SOURCES.txt
+nav_move.egg-info/dependency_links.txt
+nav_move.egg-info/entry_points.txt
+nav_move.egg-info/requires.txt
+nav_move.egg-info/top_level.txt
+nav_move.egg-info/zip-safe
+resource/nav_move
